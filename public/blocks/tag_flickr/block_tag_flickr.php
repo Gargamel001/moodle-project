@@ -23,7 +23,7 @@
  */
 
 defined('MOODLE_INTERNAL') || die();
-define('FLICKR_DEV_KEY', '4fddbdd7ff2376beec54d7f6afad425e');
+define('FLICKR_DEV_KEY', '');
 define('DEFAULT_NUMBER_OF_PHOTOS', 6);
 
 require_once("{$CFG->libdir}/flickrclient.php");
